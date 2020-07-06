@@ -13,7 +13,7 @@
   "scripts": {
     "heroku-postbuild": "npm run build",
     "dev": "react-scripts start",
-    "start": "serve -s build",
+    "start": "react-scripts start",
     "start-falsk-api":"cd api && venv/bin/flask run",
     "build": "react-scripts build",
     "test": "react-scripts test",
