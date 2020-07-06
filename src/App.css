@@ -1,6 +1,7 @@
 .App {
   min-height: 10vh;
-  text-align: center;
+  align-items: center;
+  justify-content: center;
   background: rgb(97, 170, 230)
 }
 
