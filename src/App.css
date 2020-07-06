@@ -1,6 +1,6 @@
 .App {
   min-height: 10vh;
-  align-items: center;
+  text-align: center;
   justify-content: center;
   background: rgb(97, 170, 230)
 }
@@ -12,8 +12,6 @@
   border-radius: 30px;
   background: white;
   border-style: double;
-  margin:9px;
   line-height: 0.5;
   justify-content: center;
-  align-items: center;
 }
