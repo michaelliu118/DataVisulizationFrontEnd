@@ -7,7 +7,7 @@ function App() {
     <div className='App'>
       <h1>This is the navigation page</h1>
       <div className='ButtonForApp'>
-            <h2>Eventsnpm verse hour</h2>
+            <h2>Events verse hour</h2>
             <p>You'll be directed to the heatmap descripting number of events happened each hour</p>
             <button onClick={()=> window.open("https://eq-works-sample-michael.herokuapp.com/events/hourly", "_blank")}>
                 EVENTS VS HOUR
