@@ -11,6 +11,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "heroku-postbuild": "npm run build",
     "start": "react-scripts start",
     "start-falsk-api":"cd api && venv/bin/flask run",
     "build": "react-scripts build",
