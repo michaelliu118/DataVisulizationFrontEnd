@@ -1,16 +1,17 @@
 .App {
-  min-height: 100vh;
+  min-height: 10vh;
   text-align: center;
   background: rgb(97, 170, 230)
 }
 
 .ButtonForApp{
-  height: 100px;
-  border: 2 px solid black;
+  height: 150px;
+  border: 3 px solid black;
   width: 400 px;
   border-radius: 30px;
   background: white;
-  border-style: ridge;
+  border-style: double;
   margin:9px;
   line-height: 0.5;
+  vertical-align: text-bottom;
 }
