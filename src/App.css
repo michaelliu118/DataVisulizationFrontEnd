@@ -1,8 +1,7 @@
 .App {
   min-height: 10vh;
   text-align: center;
-  justify-content: center;
-  background: rgb(97, 170, 230)
+  background: rgb(97, 170, 230);
 }
 
 .ButtonForApp{
