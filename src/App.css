@@ -15,5 +15,5 @@
   justify-content: center;
   alignItems: center;
   display: flex;
-  flexdirection: column
+  flex-direction: column
 }
