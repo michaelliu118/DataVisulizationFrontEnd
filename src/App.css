@@ -6,7 +6,7 @@
 
 .ButtonForApp{
   height: 140px;
-  border: 3 px solid black;
+  border: 4 px solid black;
   width: 400 px;
   border-radius: 30px;
   background: white;
@@ -15,5 +15,5 @@
   justify-content: center;
   alignItems: center;
   display: flex;
-  flex-direction: column
+  flex-direction:column;
 }
