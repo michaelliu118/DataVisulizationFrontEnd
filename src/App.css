@@ -14,4 +14,5 @@
   line-height: 0.5;
   justify-content: center;
   alignItems: center;
+  display: flex;
 }
