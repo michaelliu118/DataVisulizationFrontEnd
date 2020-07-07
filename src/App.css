@@ -7,10 +7,11 @@
 .ButtonForApp{
   height: 140px;
   border: 4 px solid black;
-  width: 400 px;
+  width: 300 px;
   border-radius: 30px;
   background: white;
   border-style: double;
+  margin:9px;
   line-height: 0.5;
   justify-content: center;
   alignItems: center;
